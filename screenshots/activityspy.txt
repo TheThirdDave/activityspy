@@ -1,0 +1,32 @@
+04-14 04:49:57.075      518-518/edu.washington.phida11.activityspy I/hwLog﹕ onCreate event fired
+04-14 04:49:57.075      518-518/edu.washington.phida11.activityspy I/hwLog﹕ onStart event fired
+04-14 04:50:44.075      563-563/edu.washington.phida11.activityspy I/hwLog﹕ onCreate event fired
+04-14 04:50:44.075      563-563/edu.washington.phida11.activityspy I/hwLog﹕ onStart event fired
+04-14 04:55:11.705      628-628/edu.washington.phida11.activityspy I/hwLog﹕ onCreate event fired
+04-14 04:55:11.705      628-628/edu.washington.phida11.activityspy I/hwLog﹕ onStart event fired
+04-14 04:55:11.705      628-628/edu.washington.phida11.activityspy I/hwLog﹕ onResume event fired
+04-14 04:55:43.095      628-628/edu.washington.phida11.activityspy I/hwLog﹕ onPause event fired
+04-14 04:55:43.725      628-628/edu.washington.phida11.activityspy I/hwLog﹕ onStop event fired
+04-14 04:55:43.725      628-628/edu.washington.phida11.activityspy E/hwLog﹕ We're going down Captain!
+04-14 04:56:14.325      668-668/edu.washington.phida11.activityspy I/hwLog﹕ onCreate event fired
+04-14 04:56:14.325      668-668/edu.washington.phida11.activityspy I/hwLog﹕ onStart event fired
+04-14 04:56:14.335      668-668/edu.washington.phida11.activityspy I/hwLog﹕ onResume event fired
+04-14 04:56:26.765      668-668/edu.washington.phida11.activityspy I/hwLog﹕ onPause event fired
+04-14 04:56:27.374      668-668/edu.washington.phida11.activityspy I/hwLog﹕ onStop event fired
+04-14 04:56:35.445      668-668/edu.washington.phida11.activityspy I/hwLog﹕ onCreate event fired
+04-14 04:56:35.445      668-668/edu.washington.phida11.activityspy I/hwLog﹕ onStart event fired
+04-14 04:56:35.495      668-668/edu.washington.phida11.activityspy I/hwLog﹕ onResume event fired
+04-14 04:56:49.634      668-668/edu.washington.phida11.activityspy I/hwLog﹕ onPause event fired
+04-14 04:56:49.644      668-668/edu.washington.phida11.activityspy I/hwLog﹕ onRestart event fired
+04-14 04:56:49.644      668-668/edu.washington.phida11.activityspy I/hwLog﹕ onStart event fired
+04-14 04:56:49.644      668-668/edu.washington.phida11.activityspy I/hwLog﹕ onResume event fired
+04-14 04:56:49.904      668-668/edu.washington.phida11.activityspy I/hwLog﹕ onStop event fired
+04-14 04:56:49.904      668-668/edu.washington.phida11.activityspy E/hwLog﹕ We're going down Captain!
+04-14 04:56:52.725      668-668/edu.washington.phida11.activityspy I/hwLog﹕ onPause event fired
+04-14 04:56:53.485      668-668/edu.washington.phida11.activityspy I/hwLog﹕ onStop event fired
+04-14 04:56:53.545      668-668/edu.washington.phida11.activityspy E/hwLog﹕ We're going down Captain!
+04-14 04:58:23.635      668-668/edu.washington.phida11.activityspy I/hwLog﹕ onCreate event fired
+04-14 04:58:23.655      668-668/edu.washington.phida11.activityspy I/hwLog﹕ onStart event fired
+04-14 04:58:23.665      668-668/edu.washington.phida11.activityspy I/hwLog﹕ onResume event fired
+04-14 04:58:26.765      668-668/edu.washington.phida11.activityspy I/hwLog﹕ onPause event fired
+04-14 04:58:27.414      668-668/edu.washington.phida11.activityspy I/hwLog﹕ onStop event fired
